@@ -203,7 +203,7 @@ export default function Tangour() {
                                     </div>
                                     <div className="p-4 sm:p-5 md:p-6 flex-grow flex flex-col">
                                         <Link href={`/Property/${property.property_id}`} className="cursor-pointer">
-                                            <h3 className="text-lg md:text-xl font-bold text-[#00026E] mb-2 hover:text-blue-700 transition-colors line-clamp-2">
+                                            <h3 className="text-lg md:text-xl font-bold h-12 text-[#00026E] mb-2 hover:text-blue-700 transition-colors line-clamp-2">
                                                 {property.property_name}
                                             </h3>
                                         </Link>
