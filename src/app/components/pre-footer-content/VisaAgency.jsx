@@ -36,7 +36,7 @@ const VisaAgency = () => {
       {/* Content */}
       <div className="prose prose-lg px-4 mx-auto text-gray-700">
         <p className="mb-4">
-          Planning international travel but overwhelmed by visa requirements? Our professional visa agency simplifies the entire process, ensuring smooth and successful visa applications for all destinations. Whether you're traveling for tourism, business, study, or immigration, we provide expert guidance and hassle-free processing for countries worldwide.
+          Planning international travel but overwhelmed by visa requirements? Our professional visa agency simplifies the entire process, ensuring smooth and successful visa applications for all destinations. Whether you&apos;re traveling for tourism, business, study, or immigration, we provide expert guidance and hassle-free processing for countries worldwide.
         </p>
 
         <div className="mb-4 p-4 rounded-lg">
@@ -105,7 +105,7 @@ const VisaAgency = () => {
                 <li>Document verification before submission</li>
               </ul>
               <p className="mb-0">
-                We've helped over 10,000 clients obtain visas successfully.
+                We&apos;ve helped over 10,000 clients obtain visas successfully.
               </p>
             </div>
 
