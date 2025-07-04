@@ -127,20 +127,7 @@ const VisaAgency = () => {
               </p>
             </div>
 
-            <div className="mb-4 p-4 rounded-lg">
-              <h3 className="text-lg font-bold mb-2">📞 Contact Us</h3>
-              <p className="mb-2">
-                Ready to begin your visa application?
-              </p>
-              <ul className="list-disc pl-6 mb-2 space-y-1">
-                <li>Email: info@trustedvisaagency.com</li>
-                <li>Phone: +1 (555) 123-4567</li>
-                <li>Office: 123 Visa Lane, Suite 100, New York, NY</li>
-              </ul>
-              <p className="mb-0">
-                Schedule a free consultation to discuss your visa needs.
-              </p>
-            </div>
+           
           </>
         )}
 

@@ -6,6 +6,7 @@ import Sundarban from "./components/Home/sundarban";
 import SaintMartin from "./components/Home/SaintMartin";
 import PromotionsPage from "./components/Home/PromotionsPage";
 import getServicesData from "@/services/homepage/getServicesData";
+import HpmepageBlog from "./components/pre-footer-content/Homepage";
 
 // Optional: ensure server-side rendering
 export const dynamic = "force-dynamic";
@@ -71,6 +72,7 @@ export default async function Home() {
           </div>
         </div>
       </div>
+      <HpmepageBlog/>
     </main>
   );
 }
