@@ -9,6 +9,7 @@ export default async function Page({ params }) {
   
   return (
     <div className="bg-blue-100 pt-10 md:pt-20">
+      
         <PropertyDetails data={data} />
     </div>
   )
